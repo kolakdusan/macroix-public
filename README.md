@@ -1,5 +1,9 @@
 # Macroix
 
+## Live Demo
+
+You can check out the live demo [here](https://macroix.netlify.app).
+
 ## Overview
 
 **Macroix** is a dynamic, interactive calorie display app designed to make comparing food and recipes easier and more intuitive than existing apps like MyFitnessPal. It offers a more user-friendly interface and enhanced features for tracking and managing your nutritional intake.
@@ -18,10 +22,6 @@
 - **Local Storage**: Macroix functions entirely using your browser's local storage, so your data is saved locally on your device.
 - **Technology Stack**: This project is built using **React** for the user interface, **Vite** as the build tool for fast and optimized development, and **Material UI** for sleek, responsive components.
 - **Styling**: Tailwind CSS classes are currently used but may be removed in the future to streamline the workflow. **Styled Components** are also used for more customized, component-specific styling.
-
-## Live Demo
-
-You can check out the live demo [here](https://macroix.netlify.app).
 
 ## Status
 
